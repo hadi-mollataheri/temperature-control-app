@@ -4,11 +4,11 @@ function App() {
   return (
     <div id='app-container' className="h-400px w-300px bg-silver-blue rounded-20px shadow-temperatureApp">
 
-      <div id='temperature-container'>
-        <div id='temperature'>16℃</div>
+      <div className='temperature-display-container'>
+        <div className='temperature-display'>16℃</div>
       </div>
 
-      <div id='buttons-container'>
+      <div className='button-container'>
         <button>+</button>
         <button>-</button>
       </div>
