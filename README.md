@@ -1,6 +1,8 @@
 # Explanation
 This is a *Temperature Control* app that I built with **React.js**.
 
+Topics: React, State hook ,TailwindCss
+
 I embarked on this project as a series of practice exercises after dedicating a couple of years to learning front-end web development. My goal was twofold: to enhance my coding skills and bolster my resume, ultimately preparing myself for the job market.
 
 Project number: 3
